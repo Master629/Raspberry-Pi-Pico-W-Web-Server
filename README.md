@@ -13,6 +13,7 @@ Install and have your Pico W Web Server working in less than 15 minutes.
 
 
 6. Then in Thonny Find the main.py and index.html in your SSD/Hardrive, For both main.py and index.html right click, Upload to /
+
 ![image 7](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/assets/125476463/e888156a-a227-44c8-939d-62f73c74896b)
 
 
