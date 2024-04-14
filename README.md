@@ -9,7 +9,9 @@ Install and have your Pico W Web Server working in less than 15 minutes.
 3. Change your network name and password ONLY THE TEXT DO NOT REMOVE THE QUOTATIONS!!!!!
    
 
-![image 6](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/assets/125476463/138503cb-94b2-476d-893b-efb747bbd379)
+<div align="center">
+  ![image 6](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/assets/125476463/138503cb-94b2-476d-893b-efb747bbd379)
+</div>
 
 
 6. Then in Thonny Find the main.py and index.html in your SSD/Hardrive, For both main.py and index.html right click, Upload to /
@@ -30,3 +32,5 @@ Install and have your Pico W Web Server working in less than 15 minutes.
 
 
 ![image 10](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/assets/125476463/e9170824-3891-4fac-9db1-0a5a36d62e04)
+
+9. Then unplug your Pico-W and re-plug it in it should boot up once the led is solid and not blinking anymore look in your router to find its IP address, Its hostname should be PicoW (hostname is what its called on your router)
