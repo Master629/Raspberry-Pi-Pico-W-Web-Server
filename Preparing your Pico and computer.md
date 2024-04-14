@@ -23,4 +23,11 @@
 
 4. Select the MicroPython (Raspberry Pi Pico) option NOT THE MicroPython (RP2040) MY MOUSE WAS IN THE WRONG PLACE
 5. In Thonny and Go to Tools, Manage Packages and search for picozero, then install it.
-6. Now you should be ready! go to the [Getting Started](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/blob/main/README.md) Page and continue to set it Up
+![image 2](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/assets/125476463/af71cc72-e978-405e-a17d-4d96828e8d9d)
+
+
+
+![image 3](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/assets/125476463/fae69ea5-c4a2-45a9-824c-b64629b7992c)
+
+
+7. Now you should be ready! go to the [Getting Started](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/blob/main/README.md) Page and continue to set it Up
