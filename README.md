@@ -20,3 +20,13 @@ Install and have your Pico W Web Server working in less than 15 minutes.
 
 
 ![image 8](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/assets/125476463/e4377c6f-c6fc-4bb0-b242-e9326a6862d9)
+
+7. Your Pico should look like this
+
+
+![image 9](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/assets/125476463/9cebd7a9-df24-4b19-9648-4a281892dca3)
+
+8. after that press the STOP button to restart the Pico-W
+
+
+![image 10](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/assets/125476463/e9170824-3891-4fac-9db1-0a5a36d62e04)
