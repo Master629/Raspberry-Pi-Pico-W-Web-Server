@@ -7,7 +7,7 @@
 1. Go to the [Reset](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/blob/main/RESET.md) page to reset your Pico-W.
 2. After you unzip the Pico-W.EB.zip file you will see the RPI_PICO_W-20240222-v1.22.2.uf2 file.
 3. Unplug your Pico-W and while holding the BOOTSEL button on the Pico-W, plug in the USB cable to your computer, let go of the BOOTSEL button when RPI-RP2 shows up on your computer
-4. Drag and Drop the RPI_PICO_W-20240222-v1.22.2.uf2 to the RPI-RP2 drive it will reboot and now it will not show up as a removable drive now the rest of the work will be done in Thonny IDE
+4. Drag and Drop the RPI_PICO_W-20240222-v1.22.2.uf2 to the RPI-RP2 drive it will reboot and now it will not show up as a removable drive, now the rest of the work will be done in Thonny IDE
 5. Move on to the Preparing your computer section
 
 
