@@ -1,5 +1,5 @@
 # Preperation
-1.Download the zip file from the [Releases](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/releases/download/v1.1-beta/Pico-W.EB.zip) page Then, Unzip the Pico-W.EB.zip file.
+1.Download the zip file from the [Releases](github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/releases) page Then, Unzip the Pico-W.EB.zip file.
 
 
 ## Preparing your Pico
