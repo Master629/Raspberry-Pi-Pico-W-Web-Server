@@ -1,5 +1,5 @@
 # Instructions on how to reset a Raspberry Pi Pico
-Follow these instructions if your Pico ends up in an odd state
+Follow these instructions to get your pico ready or if it ends up in an odd state.
 
 1. Download the reset firmware from [flash_nuke.uf2](https://datasheets.raspberrypi.com/soft/flash_nuke.uf2)
 2. While holding the BOOTSEL button on the Pico, plug in the USB cable to your computer.
