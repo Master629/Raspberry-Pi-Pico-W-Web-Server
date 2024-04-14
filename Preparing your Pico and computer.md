@@ -16,7 +16,11 @@
 
 1. After you unzip the Pico-W.EB.zip file run the thonny-4.1.4.exe setup file and setup Thonny.
 2. Open Thonny and Plug in your Pico-W
-3. Look at![Image 1](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/assets/125476463/b64fc5db-ef9a-46b2-aceb-9adbac3c8999)
- the bottom right corner where it says Local Python 3 Thonnys python and click on it
+3. Look at the bottom right corner where it says Local Python 3 Thonnys python and click on it
+![Image 1](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/assets/125476463/b64fc5db-ef9a-46b2-aceb-9adbac3c8999)
+
+
+
+4. Select the MicroPython (Raspberry Pi Pico) option
 
  Open Thonny and Go to Tools, Manage Packages and search for picozero, then install it.
