@@ -30,4 +30,9 @@
 ![image 3](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/assets/125476463/fae69ea5-c4a2-45a9-824c-b64629b7992c)
 
 
+
+
+![image 4](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/assets/125476463/b39f50e2-26ce-4b88-8cdc-af1589d1fb8e)
+
+
 7. Now you should be ready! go to the [Getting Started](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/blob/main/README.md) Page and continue to set it Up
