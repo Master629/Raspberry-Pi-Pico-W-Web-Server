@@ -1,9 +1,9 @@
-# Raspberry-Pi-Pico-W-Web-Server
+# Raspberry-Pi-Pico-W(EB) 
 Pico W simple web server 
 SKILL LEVEL: INTERMEDIATE you should know some html skills and basic use for Thonny IDE
 
 ## Quick Start Guide
-Install and have your Pico W Web Server working in less than 15 minutes.
+Install and have your Pico W(EB) Server working in less than 15 minutes.
 
 1. Go to the [Preperation](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/blob/main/Preparing%20your%20Pico%20and%20computer.md) page and follow it.
 2. After Prepping the Pico and your computer open the main.py from the zip folder in a text editor I will just use Notepad
